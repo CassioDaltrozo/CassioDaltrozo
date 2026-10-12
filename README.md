@@ -1,4 +1,4 @@
-# Olá, eu sou o Cassio 👋
+# Olá, eu sou o Cássio 👋
 
  Estudante de Engenharia da Computação /
  Apaixonado por física, desenvolvimento C, Python, jogos 2D e sistemas operacionais.
