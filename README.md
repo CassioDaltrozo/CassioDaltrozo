@@ -1,7 +1,7 @@
 # Olá, eu sou o Cassio 👋
 
- Graduando em Ciência da Computação / Física
- Apaixonado por desenvolvimento C, Python, jogos 2D e sistemas operacionais.
+ Estudante de Engenharia da Computação /
+ Apaixonado por física, desenvolvimento C, Python, jogos 2D e sistemas operacionais.
 
 ---
 
